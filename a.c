@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-  printf("hello ,love you:!!");:
+  printf("hello change 19:19!");:
 
   printf("hello ,love you:!!");:
 }
