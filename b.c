@@ -1,7 +1,6 @@
 #include<stdio.h>
 int main(void)
 {
-int a=520;
-   printf("hi! %d",a);
+   printf("zaici pujie ");
  return 0;
 }
