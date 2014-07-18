@@ -3,5 +3,5 @@ void main()
 {
   printf("hello ,love you:!!");:
 
-  printf("hello ,love you:!!");:
+  printf("hello !");:
 }
