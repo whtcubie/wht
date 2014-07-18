@@ -2,6 +2,6 @@
 int main(void)
 {
 int a=520;
-   printf("hi! %d",a);
+   printf("I have been change !!^-^ %d",a);
  return 0;
 }
