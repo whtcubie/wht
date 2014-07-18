@@ -2,6 +2,7 @@
 int main(void)
 {
 int a=520;
-   printf("hi! %d",a);
+char c = 'a'';
+   printf("hi! %d%c",a,c);
  return 0;
 }
