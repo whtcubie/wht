@@ -2,7 +2,7 @@
 int main(void)
 {
 
-   printf("chong tu !!");
-   printf(" chong tu !!");
+   printf("pujieljb !!");
+   
  return 0;
 }
