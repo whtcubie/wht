@@ -2,7 +2,7 @@
 int main(void)
 {
 
-   printf("pujieljb !!");
-   "bug issue"
+  
+   "a bug issue is my friend!"
  return 0;
 }
