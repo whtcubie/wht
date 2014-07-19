@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(void)
 {
-int a=520;
-   printf("I have been change !!^-^ %d",a);
+
+   printf("I have been chong tu !!");
  return 0;
 }
