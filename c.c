@@ -2,6 +2,7 @@
 int main(void)
 {
 
-   printf("I have been chong tu !!");
+   printf("chong tu !!");
+   printf(" chong tu !!");
  return 0;
 }
